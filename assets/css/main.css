@@ -3326,19 +3326,19 @@ input, select, textarea {
 	margin:20px 0;
 }
 .bar{
-	background:#353b48;
+	background:#F2F2F2;
 	display:block;
-	height: 4px;
+	height: 8px;
 	border: 1px solid rgba(0,0,0,0.3);
 	border-radius: 3px;
 	overflow:hidden;
-	box-shadow: 0 0 10px #2187e7b3;
+	box-shadow: 0 0 10px #777777;
 }
 
 .bar span{
-	height: 2px;
+	height: 6px;
 	float: left;
-	background: #2187e7;
+	background: #4ACAA8;
 }
 
 .C\#Skill{
