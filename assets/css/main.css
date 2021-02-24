@@ -3342,7 +3342,7 @@ input, select, textarea {
 }
 
 .C\#Skill{
-	width:92%;
+	width:90%;
 	animation: C\#Skill 2s;
 }
 @keyframes C\#Skill{
@@ -3350,12 +3350,12 @@ input, select, textarea {
 		width: 0%;
 	}
 	100%{
-		width: 92%;
+		width: 90%;
 	}
 }
 
 .C\+\+Skill{
-	width:96%;
+	width:94%;
 	animation: C\+\+Skill 2s;
 }
 @keyframes C\+\+Skill{
@@ -3363,7 +3363,7 @@ input, select, textarea {
 		width: 0%;
 	}
 	100%{
-		width: 96%;
+		width: 94%;
 	}
 }
 
@@ -3407,7 +3407,7 @@ input, select, textarea {
 }
 
 .JavaScriptSkill{
-	width:90%;
+	width:88%;
 	animation: JavaScriptSkill 2s;
 }
 @keyframes JavaScriptSkill{
@@ -3415,7 +3415,7 @@ input, select, textarea {
 		width: 0%;
 	}
 	100%{
-		width: 70%;
+		width: 88%;
 	}
 }
 
@@ -3459,7 +3459,7 @@ input, select, textarea {
 }
 
 .HTML5Skill{
-	width:92%;
+	width:90%;
 	animation: HTML5Skill 2s;
 }
 @keyframes HTML5Skill{
@@ -3467,12 +3467,12 @@ input, select, textarea {
 		width: 0%;
 	}
 	100%{
-		width: 92%;
+		width: 90%;
 	}
 }
 
 .CSSSkill{
-	width:85%;
+	width:84%;
 	animation: CSSSkill 2s;
 }
 @keyframes CSSSkill{
@@ -3480,6 +3480,6 @@ input, select, textarea {
 		width: 0%;
 	}
 	100%{
-		width: 85%;
+		width: 84%;
 	}
 }
