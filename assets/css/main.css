@@ -3394,7 +3394,7 @@ input, select, textarea {
 }
 
 .PythonSkill{
-	width:65%;
+	width:80%;
 	animation: PythonSkill 2s;
 }
 @keyframes PythonSkill{
@@ -3402,7 +3402,7 @@ input, select, textarea {
 		width: 0%;
 	}
 	100%{
-		width: 65%;
+		width: 80%;
 	}
 }
 
